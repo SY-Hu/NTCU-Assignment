@@ -1,0 +1,94 @@
+1 token <stdio.h> with length 9 belongs to library name
+2 token int with length 3 belongs to reserved word
+3 token ia with length 2 belongs to identifier
+4 token , with length 1 belongs to punctuation
+5 token ib with length 2 belongs to identifier
+6 token , with length 1 belongs to punctuation
+7 token ic with length 2 belongs to identifier
+8 token , with length 1 belongs to punctuation
+9 token d with length 1 belongs to identifier
+10 token , with length 1 belongs to punctuation
+11 token *ie with length 3 belongs to pointer
+12 token , with length 1 belongs to punctuation
+13 token forif with length 5 belongs to identifier
+14 token ; with length 1 belongs to punctuation
+15 token ia with length 2 belongs to identifier
+16 token = with length 1 belongs to operator
+17 token ac with length 2 belongs to Undefinetoken
+18 token forif with length 5 belongs to identifier
+19 token = with length 1 belongs to operator
+20 token ia with length 2 belongs to identifier
+21 token /  with length 1 belongs to operator
+22 token 5 with length 1 belongs to constant
+23 token + with length 1 belongs to operator
+24 token 8 with length 1 belongs to constant
+25 token ; with length 1 belongs to punctuation
+26 token ; with length 1 belongs to punctuation
+27 token whilefor with length 8 belongs to Undefinetoken
+28 token scanf with length 5 belongs to reserved word
+29 token ( with length 1 belongs to bracket
+30 token " with length 1 belongs to punctuation
+31 token %d with length 2 belongs to format specifier
+32 token " with length 1 belongs to punctuation
+33 token , with length 1 belongs to punctuation
+34 token &ac with length 2 belongs to address
+35 token ) with length 1 belongs to bracket
+36 token ; with length 1 belongs to punctuation
+37 token iF with length 2 belongs to reserved word
+38 token ( with length 1 belongs to bracket
+39 token ia with length 2 belongs to identifier
+40 token > with length 1 belongs to comparator
+41 token 5 with length 1 belongs to constant
+42 token ) with length 1 belongs to bracket
+43 token ic with length 2 belongs to identifier
+44 token = with length 1 belongs to operator
+45 token 5 with length 1 belongs to constant
+46 token ; with length 1 belongs to punctuation
+47 token ElsE with length 4 belongs to reserved word
+48 token ic with length 2 belongs to identifier
+49 token = with length 1 belongs to operator
+50 token 10 with length 2 belongs to constant
+51 token ; with length 1 belongs to punctuation
+52 token ia with length 2 belongs to identifier
+53 token = with length 1 belongs to operator
+54 token *ib with length 3 belongs to pointer
+55 token - with length 1 belongs to operator
+56 token ic with length 2 belongs to identifier
+57 token ; with length 1 belongs to punctuation
+58 token d with length 1 belongs to identifier
+59 token = with length 1 belongs to operator
+60 token 5 with length 1 belongs to constant
+61 token * with length 1 belongs to operator
+62 token ie with length 2 belongs to identifier
+63 token ; with length 1 belongs to punctuation
+64 token ib with length 2 belongs to identifier
+65 token = with length 1 belongs to operator
+66 token forif with length 5 belongs to identifier
+67 token % with length 1 belongs to operator
+68 token d with length 1 belongs to identifier
+69 token ; with length 1 belongs to punctuation
+70 token ic with length 2 belongs to identifier
+71 token = with length 1 belongs to operator
+72 token forif with length 5 belongs to identifier
+73 token & with length 1 belongs to operator
+74 token ia with length 2 belongs to identifier
+75 token ; with length 1 belongs to punctuation
+
+
+Total: 75 tokens
+
+
+Reserved word: 4
+Library name: 1
+Comment: 0
+Identifier: 21
+Constant: 6
+Operator: 14
+Comparator: 1
+Bracket: 4
+Format specifier: 1
+Pointer: 2
+Address: 1
+Punctuation: 18
+Printed token: 0
+Undefine token: 2

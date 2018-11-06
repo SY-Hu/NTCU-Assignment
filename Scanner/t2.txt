@@ -1,0 +1,30 @@
+#include<stdio.h>
+#include<stdlib.h>
+main
+{
+char ca;
+int ia, ib, ic, *id, ie, ig;
+float fa, fb;
+if ((ia==5)&(ib>2))  fa=ic+3.6*(*id);
+elseif ((ia!=-5)|(ib>=2))  fa=ic-*id/4;
+else  fa=(ic^2)%5;
+for(ie=0;ie<=10;ie++)  /*for loop*/
+for(ig=5;ig<0; ig--){
+ib=(int)fa*2.5+(-3);
+fb=(float)ie+5; fb=fa^3+*id;}
+while(ib>5)  ib=ib-1;  //while loop
+do{  fb=fb/2; ia=ia*3; *id=*id+ie;
+}while(fb<1);
+ig=ia&((ib|ic)|(*id))&ie;
+switch(ie){
+case(0)  fb=3*fa;
+case(1)  fb=fa-1;
+case(3)  fb=fa/(*id);
+case(4)  fb=(*id)+fa;
+}
+scanf("%c",&ca);   /*scanf //
+                     scanf*/
+scanf("Number of while loop: %d %d loops",&ig, &ig);
+printf("Print numbers: %d\\\t%f%d\n", ia, fb, ib);
+return
+}
